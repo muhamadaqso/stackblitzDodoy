@@ -15,11 +15,7 @@ export class AppComponent implements OnInit {
   ];
   relationData = [
     ['100', 'spiderman', 'music', '2'],
-    ['200', 'ironman', 'math', '2'],
-    ['300', 'superman', 'computer', '3'],
-    ['400', 'batman', 'computer', '4'],
-    ['500', 'hulk', 'music', '3'],
-    ['600', 'ironman', 'music', '2']
+    ['200', 'ironman', 'math', '2']
   ];
 
   ngOnInit(): void {
