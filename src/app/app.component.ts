@@ -22,7 +22,7 @@ export class AppComponent implements OnInit {
     // this.solution(this.dataInput);
     // this.stringCompression('ababcdcdababcdcd');
     // this.countSameKey(this.relationData);
-    // this.stringChallenge(4.5);
+    this.stringChallenge(4.5);
   }
 
   stringChallenge(str) {
